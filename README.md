@@ -5,7 +5,7 @@
 - [Install](#install)
 - [Introduction](#introduction)
 - [Description](#description)
-- [Input and Output](#input output)
+- [Input&Output](#inputoutput)
 - [Test](#test)
 - [Improvement](#improvement)
 
