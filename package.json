@@ -1,0 +1,15 @@
+{
+  "name": "Robotic_Rovers_Navigation",
+  "version": "1.0.0",
+  "description": "every rovers has current location which will change base on input movement instructions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "author": "Edward",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.1"
+  }
+}
